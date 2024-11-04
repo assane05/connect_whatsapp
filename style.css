@@ -1,0 +1,17 @@
+.myBtn {
+	box-shadow: 3px 4px 0px 0px#25D366;
+	background-color:	#25D366;
+	border-radius:18px;
+	border:1px solid#25D366;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px 	#25D366;
+}
+.myBtn:hover {
+	background-color:#fff;
+    color: #25D366;
+}
